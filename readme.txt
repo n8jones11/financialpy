@@ -40,6 +40,4 @@ To deploy this application online, consider using:
    * PythonAnywhere
    * AWS, Google Cloud Platform, Azure (for more advanced hosting)
 Contributing
-If you have suggestions for improvements or find any issues, feel free to open an issue or submit a pull request.
-License
-[Optional: Add a license here, e.g., MIT License]
+If you have suggestions for improvements or find any issues, feel free to open an issue or submit a pull request
